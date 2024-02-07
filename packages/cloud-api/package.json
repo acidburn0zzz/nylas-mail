@@ -24,7 +24,7 @@
     "hapi-auth-basic": "^4.2.0",
     "hapi-boom-decorators": "2.2.2",
     "hapi-swagger": "7.6.0",
-    "hoek": "4.1.0",
+    "hoek": "6.1.3",
     "inert": "4.0.0",
     "isomorphic-core": "0.x.x",
     "jasmine": "2.5.3",
